@@ -1,2 +1,2 @@
-# CERN-MM-TUTORIAL
+# CERN
 CERN - Mobile Monitoring System - Tutorial
